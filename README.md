@@ -1,6 +1,15 @@
-👋 Hi, I’m Maxime Guerois
+h1 {
+  text-align: center;
+}
 
-Learning, building, shipping
+h2 {
+  text-align: center;
+}
+
+
+<h1>👋 Hi, I’m Maxime Guerois</h1>
+
+<h2>Learning, building, shipping</h2>
 
  - 💪 I’m currently learning and working on some stuff
  - 📄 Know about my experiences on LinkedIn

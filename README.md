@@ -3,8 +3,7 @@
 <h2 align="center">Learning, building, shipping</h2>
 
  - 💪 I’m currently learning and working on some stuff
- - 📄 Know about my experiences on LinkedIn
- - 📫 Reach me on Twitter @maximeguerois
+ - 📫 Reach me on Twitter <a href="https://twitter.com/maximeguerois">@maximeguerois</a>
 
 <!---
 Maximeguerois/Maximeguerois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

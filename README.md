@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Maxime Guerois</h1>
+<h1 align="center">👋 Hi, I’m Max</h1>
 
 <h2 align="center">Learning, building, shipping</h2>
 
